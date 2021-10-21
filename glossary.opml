@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>glossary</title>
+		<dateCreated>Sun, 10 Oct 2021 19:08:08 GMT</dateCreated>
+		<dateModified>Wed, 13 Oct 2021 00:56:49 GMT</dateModified>
+		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
+		<ownerName>Jack Baty</ownerName>
+		<ownerId>http://twitter.com/jackbaty</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<ownerEmail>jack@baty.net</ownerEmail>
+		</head>
+	<body>
+		<outline text="thelathe" created="Sun, 10 Oct 2021 19:08:08 GMT">
+			<outline text="&lt;a href=&quot;https://rudimentarylathe.wiki&quot;&gt;RudimentaryLathe.wiki&lt;/a&gt;" created="Mon, 11 Oct 2021 08:52:40 GMT"/>
+			</outline>
+		</body>
+	</opml>

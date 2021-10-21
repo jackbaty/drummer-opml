@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>microblog</title>
+		<dateCreated>Mon, 18 Oct 2021 21:22:16 GMT</dateCreated>
+		<dateModified>Thu, 21 Oct 2021 11:40:53 GMT</dateModified>
+		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
+		<ownerName>Jack Baty</ownerName>
+		<ownerId>http://twitter.com/jackbaty</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerEmail>jack@baty.net</ownerEmail>
+		<expansionState>1,2,4,9,13</expansionState>
+		<lastCursor>2</lastCursor>
+		<flPublic>true</flPublic>
+		<urlPublic>http://drummer.scripting.com/jackbaty/microblog.opml</urlPublic>
+		</head>
+	<body>
+		<outline text="October 2021" created="Mon, 18 Oct 2021 21:25:33 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 21" created="Thu, 21 Oct 2021 11:40:19 GMT" type="calendarDay" name="21">
+				<outline text="Oh dear, I &quot;accidentally&quot; opened Mutt this morning. Now I'm up to my neck in .muttrc for no good reason." created="Thu, 21 Oct 2021 11:40:20 GMT" type="outline"/>
+				</outline>
+			<outline text="October 20" created="Wed, 20 Oct 2021 11:24:49 GMT" type="calendarDay" name="20">
+				<outline text="OMG, I'm so in love with the restored Tabs in Safari's latest that I'm giddy. This must be the week where we all feel GREAT because Apple is giving us back the stuff they'd recently taken away." created="Wed, 20 Oct 2021 21:38:09 GMT" type="outline"/>
+				<outline text="Kind of defeats the purpose of having such a small camera" created="Wed, 20 Oct 2021 18:53:33 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-NzPsMwB/0/860d7c45/X3/20211020-Q1000111-X3.jpg"/>
+				<outline text="So help me if Facebook changes its name to something that mucks up my searches" created="Wed, 20 Oct 2021 15:26:13 GMT" type="outline"/>
+				<outline text="I've decided to run my Drummer blog at baty.blog. I like the domain. It's short, eponymous, alliterative, and won't be confused with the wiki. Now to fix the internal links and put in some redirects. (UPDATE: Dave has fixed a bug preventing the internal links from reflecting the urlBlogWebsite attribute so all is well again)" created="Wed, 20 Oct 2021 11:24:50 GMT" type="outline"/>
+				</outline>
+			<outline text="October 19" created="Tue, 19 Oct 2021 11:51:54 GMT" type="calendarDay" name="19">
+				<outline text="Upgraded to the latest beta of Monterey and look what happened. Real Tabs!" created="Tue, 19 Oct 2021 20:48:26 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-T5zK7Fp/1/9da4301a/X2/safari-tabs-X2.png"/>
+				<outline text="Image test. M-43 for lunch at HopCat" created="Tue, 19 Oct 2021 17:34:46 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-srvgfpR/0/a8c3b953/X4/20211019-Q1000102-X4.jpg"/>
+				<outline text="A quick test of &lt;a href=&quot;https://rudimentarylathe.org/2021/10/19/112110.html?title=printingMyDrummerBlog&quot;&gt;Printing my Drummer blog&lt;/a&gt;" created="Tue, 19 Oct 2021 11:51:55 GMT" type="outline"/>
+				</outline>
+			<outline text="October 18" created="Mon, 18 Oct 2021 21:25:34 GMT" type="calendarDay" name="18">
+				<outline text="In 3 days no normal user will even notice the notch, let alone argue incessantly about it for a year, like we will." created="Mon, 18 Oct 2021 22:13:32 GMT" type="outline"/>
+				<outline text="That was fast. &lt;a href=&quot;https://www.manton.org/2021/10/18/drummer-and-microblog.html &quot;&gt;Drummer and Micro.blog&lt;/a&gt;  (this post was published directly from a Drummer outline)" created="Mon, 18 Oct 2021 21:25:35 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
