@@ -18,17 +18,26 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 21 Oct 2021 17:15:22 GMT</dateModified>
-		<expansionState>1,2,3,9</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Fri, 22 Oct 2021 10:38:18 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 22" created="Fri, 22 Oct 2021 10:11:23 GMT" type="calendarDay" name="22">
+				<outline text="Oh hi friends!" created="Fri, 22 Oct 2021 10:36:13 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-mtTBRDg/0/b2dd08db/S/CleanShot%202021-10-22%20at%2006.08.27-S.png"/>
+				</outline>
 			<outline text="October 21" created="Thu, 21 Oct 2021 09:49:23 GMT" type="calendarDay" name="21">
+				<outline text="The thing I ask myself about Drummer is this: If I knew right now that there would be no changes or updates to it forever, would I still use it. I believe I might, yes, so there's no risk in using it right now. It's never a good idea to adopt something based on what it might become rather than what it is." created="Thu, 21 Oct 2021 20:48:03 GMT" type="outline" image="https://static.baty.net/images/small/drum.png"/>
+				<outline text="Waking Up" created="Thu, 21 Oct 2021 20:32:57 GMT" type="outline">
+					<outline text="I tried meditation a few years ago, but it was a feeble, short-lived attempt. An email today about Sam Harris' meditation app, &lt;a href=&quot;https://app.wakingup.com&quot;&gt;Waking Up&lt;/a&gt;, getting a big update today made me think about meditation again, so I re-installed the app. I went to the subscription page and saw a message that I am grandfathered in with a lifetime subscription for being an early adopter (in 2018). Sometimes it pays to be an early adopter!" created="Thu, 21 Oct 2021 20:33:00 GMT"/>
+					<outline text="Serious meditation interests me. By that, I mean &lt;i&gt;real&lt;/i&gt; meditation and not the &quot;Listen to your breath for 5 minutes a day and you'll be super productive and more handsome!&quot; kind." created="Thu, 21 Oct 2021 20:35:08 GMT"/>
+					</outline>
+				<outline text="I see Alex is &lt;a href=&quot;https://alexjj.com/2021/10/21/115544.html?title=drummerTweaks&quot;&gt;making some style tweaks&lt;/a&gt; to his Drummer blog along the same lines as I've been thinking about. The tabs on mobile can be improved, certainly, and I plan to keep mine. The blog title also doesn't scale correctly. I would like if Drummer offered something like a css.opml option for overriding the default template styles rather than having us copy the entire template(s). Oh well, remember I said I didn't want to get too deep yet. For now I'm just writing." created="Thu, 21 Oct 2021 20:29:10 GMT" type="outline"/>
 				<outline text="Mutt, maybe" created="Thu, 21 Oct 2021 16:48:18 GMT" type="outline">
 					<outline text="Oh, how I used to love using &lt;a href=&quot;http://www.mutt.org&quot;&gt;Mutt&lt;/a&gt; for email. It was my thing for years until the early 2000s. At some point around 2005, rather than dealing with top-posters and the complete domination of HTML emails, I set Mutt aside. " created="Thu, 21 Oct 2021 16:48:54 GMT"/>
 					<outline text="This morning I logged into the &lt;a href=&quot;http://tilde.club&quot;&gt;http://tilde.club&lt;/a&gt; server and just for grins, launched Mutt, and was immediately reminded how fast and cool it is." created="Thu, 21 Oct 2021 16:59:56 GMT"/>
-					<outline text="So, I dusted off my very old &lt;a href=&quot;  https://rudimentarylathe.wiki/#Mutt%20config&quot;&gt;Mutt config&lt;/a&gt;, cleaned it up a little, and started going through my email with it. It really is a terrific way to do email. HTML emails are still too prevalent, and if I wrap text at 80 characters people freak out. Still, I'll run it for a few days just for old-time's sake." created="Thu, 21 Oct 2021 17:01:30 GMT"/>
+					<outline text="So, I dusted off my very old &lt;a href=&quot;  https://rudimentarylathe.wiki/#Mutt%20config&quot;&gt;Mutt config&lt;/a&gt;, cleaned it up a little, and started going through my email with it. It really is a terrific way to do email. HTML emails are still too prevalent, and if I wrap text at 80 characters people freak out. Still, I'll run it for a few days just for old-time's sake. Who knows, maybe it'll catch on." created="Thu, 21 Oct 2021 17:01:30 GMT"/>
 					</outline>
 				<outline text="Good morning!" created="Thu, 21 Oct 2021 09:53:11 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-t3MX3N6/0/42320730/XL/20211020-Q1000131-XL.jpg"/>
 				<outline text="I'm going to just settle in with Drummer for a spell before going all crazy with scripting or trying stuff it's not meant for yet. With Drummer I have a decent outliner with good blogging features and great interop potential. Let's worry about the little things later. They don't matter to me right now." created="Thu, 21 Oct 2021 09:49:24 GMT" type="outline"/>
