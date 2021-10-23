@@ -18,14 +18,17 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 22 Oct 2021 10:38:18 GMT</dateModified>
-		<expansionState>1,2,4</expansionState>
+		<dateModified>Fri, 22 Oct 2021 20:46:31 GMT</dateModified>
+		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 22" created="Fri, 22 Oct 2021 10:11:23 GMT" type="calendarDay" name="22">
-				<outline text="Oh hi friends!" created="Fri, 22 Oct 2021 10:36:13 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-mtTBRDg/0/b2dd08db/S/CleanShot%202021-10-22%20at%2006.08.27-S.png"/>
+				<outline text="Oh hi friends!" created="Fri, 22 Oct 2021 10:36:13 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-mtTBRDg/0/b2dd08db/S/CleanShot%202021-10-22%20at%2006.08.27-S.png">
+					<outline text="&lt;a href=&quot;https://www.zengobi.com/curio/&quot;&gt;Curio&lt;/a&gt;, &lt;a href=&quot;https://eastgate.com/Tinderbox/&quot;&gt;Tinderbox&lt;/a&gt;, &lt;a href=&quot;https://thebrain.com&quot;&gt;TheBrain&lt;/a&gt;, and &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;Emacs&lt;/a&gt;" created="Fri, 22 Oct 2021 14:38:35 GMT"/>
+					<outline text="I love them all. What's weird is that they are all completely different, yet they overlap significantly with each other. This is why I struggle with choosing the One True App™" created="Fri, 22 Oct 2021 14:40:36 GMT"/>
+					</outline>
 				</outline>
 			<outline text="October 21" created="Thu, 21 Oct 2021 09:49:23 GMT" type="calendarDay" name="21">
 				<outline text="The thing I ask myself about Drummer is this: If I knew right now that there would be no changes or updates to it forever, would I still use it. I believe I might, yes, so there's no risk in using it right now. It's never a good idea to adopt something based on what it might become rather than what it is." created="Thu, 21 Oct 2021 20:48:03 GMT" type="outline" image="https://static.baty.net/images/small/drum.png"/>

@@ -3,13 +3,13 @@
 	<head>
 		<title>microblog</title>
 		<dateCreated>Mon, 18 Oct 2021 21:22:16 GMT</dateCreated>
-		<dateModified>Fri, 22 Oct 2021 10:12:32 GMT</dateModified>
+		<dateModified>Fri, 22 Oct 2021 17:16:22 GMT</dateModified>
 		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>jack@baty.net</ownerEmail>
-		<expansionState>1,2,4,6,11,15</expansionState>
+		<expansionState>1,2,6,8,13,17</expansionState>
 		<lastCursor>2</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/jackbaty/microblog.opml</urlPublic>
@@ -17,6 +17,8 @@
 	<body>
 		<outline text="October 2021" created="Mon, 18 Oct 2021 21:25:33 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 22" created="Fri, 22 Oct 2021 10:12:08 GMT" type="calendarDay" name="22">
+				<outline text="Remember earlier when I thought I knew what kind of day it was going to be? Well, no." created="Fri, 22 Oct 2021 17:11:34 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-nxgTPCK/0/093abf16/L/IMG_0435-L.jpg"/>
+				<outline text="I had dreams once" created="Fri, 22 Oct 2021 12:50:11 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-LnHdmBc/0/a59e9ff4/L/stench-L.png"/>
 				<outline text="Oh, I see what kind of day this is going to be." created="Fri, 22 Oct 2021 10:12:09 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-mtTBRDg/0/b2dd08db/S/CleanShot%202021-10-22%20at%2006.08.27-S.png"/>
 				</outline>
 			<outline text="October 21" created="Thu, 21 Oct 2021 11:40:19 GMT" type="calendarDay" name="21">
