@@ -12,18 +12,34 @@
 		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/jackbaty/linkblog.json</urlLinkblogJson>
 		<description>I already spent the money</description>
 		<urlAboutOpml>http://drummer.scripting.com/jackbaty/about.opml</urlAboutOpml>
-		<urlTemplate>https://static.baty.net/code/drummer/templates/minimal/index.html</urlTemplate>
 		<urlBlogWebsite>https://baty.blog/</urlBlogWebsite>
+		<urlTemplate>https://static.baty.net/code/drummer/templates/minimal/index.html</urlTemplate>
 		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 22 Oct 2021 20:46:31 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Sun, 24 Oct 2021 10:22:57 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 24" created="Sun, 24 Oct 2021 10:19:54 GMT" type="calendarDay" name="24">
+				<outline text="Good morning" created="Sun, 24 Oct 2021 10:19:55 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-tJkJMdw/0/88d35655/L/65645993699__70C9583E-518E-473D-96E4-07E217C448A8-L.jpg"/>
+				</outline>
+			<outline text="October 23" created="Sat, 23 Oct 2021 11:13:07 GMT" type="calendarDay" name="23">
+				<outline text="Alex &lt;a href=&quot;https://alexjj.com/2021/10/23.html#a055545&quot;&gt;posted a link&lt;/a&gt; to a &lt;a href=&quot;https://news.ycombinator.com/item?id=28954058&quot;&gt;HN thread&lt;/a&gt; about &lt;a href=&quot;https://magit.vc&quot;&gt;Magit&lt;/a&gt;. Magit and &lt;a href=&quot;https://orgmode.org&quot;&gt;Org mode&lt;/a&gt; are more than enough reason, by themselves, to suffer the pain of learning &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;Emacs&lt;/a&gt;." created="Sat, 23 Oct 2021 12:35:03 GMT" type="outline"/>
+				<outline text="I think it's time to stop writing about Drummer here so often. Blogging about blogging is easy and fun, but becomes tedious. I'm keeping an updated set of &lt;a href=&quot;  https://rudimentarylathe.wiki/#Drummer%20Notes&quot;&gt;Drummer Notes&lt;/a&gt; on the wiki, for anyone who wants to follow along. I suppose some of the notes could end up in the day's &quot;Minutiae&quot; section, if I decide to keep that section." created="Sat, 23 Oct 2021 12:13:44 GMT" type="outline" image="https://static.baty.net/images/small/drum.png"/>
+				<outline text="This is exactly like every dream I had as a kid" created="Sat, 23 Oct 2021 11:13:08 GMT" type="outline">
+					<outline text="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/U2CRKrHg5Z0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;" created="Sat, 23 Oct 2021 11:18:15 GMT"/>
+					</outline>
+				<outline text="Minutiae - Saturday, October 23, 2021" created="Sat, 23 Oct 2021 11:49:24 GMT" type="outline" closed="true">
+					<outline text="I'm revisiting the idea of creating a &quot;Minutiae&quot; post each day. It's for stupid little things, half-formed thoughts, and public replies to the posts of others. I don't love that it shows up in RSS each day before it's fully cooked, but those who care enough about what might be in it are probably visiting the site directly anyway. I could comment it out until end of day but don't feel like managing that. So it is what it is :). It'll go at the bottom of each day's list of posts. A nice side effect is that this only ends up as a single item in people's RSS feeds. Helps keep the noise down (and my guilt about generating noise)." created="Sat, 23 Oct 2021 11:49:48 GMT"/>
+					<outline text="I'd love being able to easily rearrange tabs in Drummer. For now I usually only have 3 or 4 open, so I just open them in the order I want them, but still." created="Sat, 23 Oct 2021 11:58:34 GMT"/>
+					<outline text="I'm glad I switched to using baty.blog for this site. Not as fun or clever as rudimentarylathe.org, but better in every other way." created="Sat, 23 Oct 2021 13:08:59 GMT"/>
+					<outline text="&lt;strike&gt;I can't build the blog right now for some reason&lt;/strike&gt;. It works again, Dave worked some magic." created="Sat, 23 Oct 2021 13:46:01 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 22" created="Fri, 22 Oct 2021 10:11:23 GMT" type="calendarDay" name="22">
 				<outline text="Oh hi friends!" created="Fri, 22 Oct 2021 10:36:13 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-mtTBRDg/0/b2dd08db/S/CleanShot%202021-10-22%20at%2006.08.27-S.png">
 					<outline text="&lt;a href=&quot;https://www.zengobi.com/curio/&quot;&gt;Curio&lt;/a&gt;, &lt;a href=&quot;https://eastgate.com/Tinderbox/&quot;&gt;Tinderbox&lt;/a&gt;, &lt;a href=&quot;https://thebrain.com&quot;&gt;TheBrain&lt;/a&gt;, and &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;Emacs&lt;/a&gt;" created="Fri, 22 Oct 2021 14:38:35 GMT"/>
