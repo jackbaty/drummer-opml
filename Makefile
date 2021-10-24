@@ -16,6 +16,9 @@ checkpoint:
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 
+repo: 
+	open https://github.com/jackbaty/drummer-opml
+
 backup: checkpoint
 	git push
 
