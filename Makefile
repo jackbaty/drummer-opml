@@ -12,6 +12,7 @@ checkpoint:
 	curl -O http://drummer.scripting.com/jackbaty/about.opml
 	curl -O http://drummer.scripting.com/jackbaty/glossary.opml
 	curl -O http://drummer.scripting.com/jackbaty/microblog.opml
+	curl -O http://drummer.scripting.com/jackbaty/notes.opml
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 
