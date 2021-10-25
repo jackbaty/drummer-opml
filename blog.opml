@@ -18,14 +18,33 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 24 Oct 2021 10:22:57 GMT</dateModified>
-		<expansionState>1,2,4</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 25 Oct 2021 17:44:46 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 25" created="Mon, 25 Oct 2021 09:21:29 GMT" type="calendarDay" name="25">
+				<outline text="Bought &lt;a href=&quot;https://www.townscapergame.com&quot;&gt;Townscaper&lt;/a&gt; for iOS, since everyone seems to love it. It's clever and fun and relaxing. I suppose I'll be bored with it in an hour but it'll be fun while it lasts." created="Mon, 25 Oct 2021 15:11:35 GMT" type="outline"/>
+				<outline text="I've been binging on and enjoying &quot;&lt;a href=&quot;https://www.rottentomatoes.com/tv/ash_vs_evil_dead&quot;&gt;Ash vs Evil Dead&lt;/a&gt;&quot;. I saw the earlier films, but they didn't really register with me. The series is fun and something I'm apparently in the mood for." created="Mon, 25 Oct 2021 14:42:19 GMT" type="outline"/>
+				<outline text="Minutiae - Monday, October 25, 2021" created="Mon, 25 Oct 2021 09:21:30 GMT" type="outline">
+					<outline text="I'm such a noob at video editing it's embarrassing. I think I understand the concepts, but actually making the rendered output do what I want is hard." created="Mon, 25 Oct 2021 09:21:41 GMT"/>
+					<outline text="Fixed CSS rendering of tabs on mobile, thanks to &lt;a href=&quot;https://ol.amitgawande.com/2021/10/25.html#a063946&quot;&gt;Amit&lt;/a&gt; (and then &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/98#issuecomment-950939742&quot;&gt;Dave&lt;/a&gt;)" created="Mon, 25 Oct 2021 09:44:44 GMT"/>
+					<outline text="@Alex &lt;a href=&quot;https://alexjj.com/2021/10/25.html#a153109&quot;&gt;re: reMarkable&lt;/a&gt;" created="Mon, 25 Oct 2021 16:58:39 GMT" collapse="true">
+						<outline text="I sold my reMarkable tablet. It did the writing on screen thing wonderfully and loved that. But, you wrote, &quot;I love paper notebooks to flick back through for some information&quot; and that's where I found the reMarkable to fall down. It's too slow and too much work. YMMV but I thought I'd mention it." created="Mon, 25 Oct 2021 16:58:49 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Good morning" created="Mon, 25 Oct 2021 17:44:21 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-8rjHNzw/0/26ea8cd2/XL/IMG_0446-XL.jpg"/>
+				</outline>
 			<outline text="October 24" created="Sun, 24 Oct 2021 10:19:54 GMT" type="calendarDay" name="24">
+				<outline text="Getting the URL of a post from within Drummer" created="Sun, 24 Oct 2021 11:26:43 GMT" type="outline">
+					<outline text="&lt;a href=&quot;https://www.amitgawande.com/2021/10/23/getting-post-url.html&quot;&gt;Amit read my mind&lt;/a&gt;. In my &lt;a href=&quot;  https://rudimentarylathe.wiki/#Drummer%20Notes&quot;&gt;Drummer Notes&lt;/a&gt;, I'd wondered if there was an easy way to get the link to a post from &lt;i&gt;within the Drummer UI&lt;/i&gt;. That would make it easier to link to other posts. One of the benefits of Drummer is that the entire blog is in a single outline. &lt;a href=&quot;https://gist.github.com/am1t/c1a1d37af7cd33aedc9e1263888a70e0&quot;&gt;Amit's script&lt;/a&gt; makes linking to earlier work super easy. I just pasted his script into my &lt;a href=&quot;http://docserver.scripting.com/drummer/scripting.opml#1627490175000&quot;&gt;Scripts menu&lt;/a&gt; and boom!" created="Sun, 24 Oct 2021 11:27:01 GMT"/>
+					</outline>
 				<outline text="Good morning" created="Sun, 24 Oct 2021 10:19:55 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-tJkJMdw/0/88d35655/L/65645993699__70C9583E-518E-473D-96E4-07E217C448A8-L.jpg"/>
+				<outline text="Minutiae - Sunday, October 24, 2021" created="Sun, 24 Oct 2021 11:46:49 GMT" type="outline">
+					<outline text="I hope spend some quality time with &lt;a href=&quot;https://www.blackmagicdesign.com/products/davinciresolve/&quot;&gt;DaVinci Resolve&lt;/a&gt; today" created="Sun, 24 Oct 2021 11:47:06 GMT"/>
+					<outline text="Mantra for today (from Thomas Paine): &quot;The more simple anything is, the less liable it is to be disordered&quot;" created="Sun, 24 Oct 2021 11:48:01 GMT"/>
+					</outline>
 				</outline>
 			<outline text="October 23" created="Sat, 23 Oct 2021 11:13:07 GMT" type="calendarDay" name="23">
 				<outline text="Alex &lt;a href=&quot;https://alexjj.com/2021/10/23.html#a055545&quot;&gt;posted a link&lt;/a&gt; to a &lt;a href=&quot;https://news.ycombinator.com/item?id=28954058&quot;&gt;HN thread&lt;/a&gt; about &lt;a href=&quot;https://magit.vc&quot;&gt;Magit&lt;/a&gt;. Magit and &lt;a href=&quot;https://orgmode.org&quot;&gt;Org mode&lt;/a&gt; are more than enough reason, by themselves, to suffer the pain of learning &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;Emacs&lt;/a&gt;." created="Sat, 23 Oct 2021 12:35:03 GMT" type="outline"/>

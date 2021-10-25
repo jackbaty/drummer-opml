@@ -3,19 +3,23 @@
 	<head>
 		<title>microblog</title>
 		<dateCreated>Mon, 18 Oct 2021 21:22:16 GMT</dateCreated>
-		<dateModified>Fri, 22 Oct 2021 17:16:22 GMT</dateModified>
+		<dateModified>Sun, 24 Oct 2021 11:48:30 GMT</dateModified>
 		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>jack@baty.net</ownerEmail>
-		<expansionState>1,2,6,8,13,17</expansionState>
-		<lastCursor>2</lastCursor>
+		<expansionState>1,2,5,9,11,16,20</expansionState>
+		<lastCursor>3</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/jackbaty/microblog.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="October 2021" created="Mon, 18 Oct 2021 21:25:33 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 24" created="Sun, 24 Oct 2021 10:48:35 GMT" type="calendarDay" name="24">
+				<outline text="Good morning" created="Sun, 24 Oct 2021 10:19:55 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-tJkJMdw/0/88d35655/L/65645993699__70C9583E-518E-473D-96E4-07E217C448A8-L.jpg"/>
+				<outline text="Mantra for today ( from Thomas Paine): &quot;The more simple anything is, the less liable it is to be disordered&quot;" created="Sun, 24 Oct 2021 10:48:36 GMT" type="outline"/>
+				</outline>
 			<outline text="October 22" created="Fri, 22 Oct 2021 10:12:08 GMT" type="calendarDay" name="22">
 				<outline text="Remember earlier when I thought I knew what kind of day it was going to be? Well, no." created="Fri, 22 Oct 2021 17:11:34 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-nxgTPCK/0/093abf16/L/IMG_0435-L.jpg"/>
 				<outline text="I had dreams once" created="Fri, 22 Oct 2021 12:50:11 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-LnHdmBc/0/a59e9ff4/L/stench-L.png"/>
