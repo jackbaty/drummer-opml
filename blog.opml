@@ -18,21 +18,27 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 25 Oct 2021 17:44:46 GMT</dateModified>
+		<dateModified>Tue, 26 Oct 2021 09:16:31 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>5</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 26" created="Tue, 26 Oct 2021 09:16:15 GMT" type="calendarDay" name="26">
+				<outline text="Good morning" created="Tue, 26 Oct 2021 09:16:16 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-6WxMZZ7/0/c76bc72f/XL/2021-Roll-033-14-XL.jpg"/>
+				</outline>
 			<outline text="October 25" created="Mon, 25 Oct 2021 09:21:29 GMT" type="calendarDay" name="25">
+				<outline text="Pink Floyd's catalog is &lt;a href=&quot;https://www.qobuz.com/us-en/search?s=art_dis&amp;q=pink-floyd-in-hires-us&amp;i=boutique&quot;&gt;available in Hi-Res&lt;/a&gt;. Tempting, except I feel I might be done buying digital music. It's no longer important for me to &quot;own&quot; music, as everything is available all the time via streaming. (I use Apple Music and Qobuz). The fear of some edition of some album no longer being available is a non-issue that music nerds seem to get worked up about. Streaming is an ad-free nearly infinite radio station that always plays my requests. If I want to actually own music, I'll buy a physical (vinyl) copy. There, I finally said that out loud. Now I'm side-eyeing my Roon library." created="Mon, 25 Oct 2021 22:47:04 GMT" type="outline"/>
+				<outline text="Alex and I think alike. I wanted a quicker way to insert the little right-aligned images and started writing a Drummer script for it, but turns out &lt;a href=&quot;https://alexjj.com/2021/10/25.html#a201733&quot;&gt;Alex already made one&lt;/a&gt;. His is for the bigger inlineImage so I adapted it for the small ones. I have a selection of small images out on my static server, so I can just call the script and type the image name, e.g. drum.png (see right), and the rest is done for me. Small, but meaningful." created="Mon, 25 Oct 2021 21:21:38 GMT" type="outline" image="https://static.baty.net/images/small/drum.png"/>
 				<outline text="Bought &lt;a href=&quot;https://www.townscapergame.com&quot;&gt;Townscaper&lt;/a&gt; for iOS, since everyone seems to love it. It's clever and fun and relaxing. I suppose I'll be bored with it in an hour but it'll be fun while it lasts." created="Mon, 25 Oct 2021 15:11:35 GMT" type="outline"/>
 				<outline text="I've been binging on and enjoying &quot;&lt;a href=&quot;https://www.rottentomatoes.com/tv/ash_vs_evil_dead&quot;&gt;Ash vs Evil Dead&lt;/a&gt;&quot;. I saw the earlier films, but they didn't really register with me. The series is fun and something I'm apparently in the mood for." created="Mon, 25 Oct 2021 14:42:19 GMT" type="outline"/>
 				<outline text="Minutiae - Monday, October 25, 2021" created="Mon, 25 Oct 2021 09:21:30 GMT" type="outline">
 					<outline text="I'm such a noob at video editing it's embarrassing. I think I understand the concepts, but actually making the rendered output do what I want is hard." created="Mon, 25 Oct 2021 09:21:41 GMT"/>
 					<outline text="Fixed CSS rendering of tabs on mobile, thanks to &lt;a href=&quot;https://ol.amitgawande.com/2021/10/25.html#a063946&quot;&gt;Amit&lt;/a&gt; (and then &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/98#issuecomment-950939742&quot;&gt;Dave&lt;/a&gt;)" created="Mon, 25 Oct 2021 09:44:44 GMT"/>
-					<outline text="@Alex &lt;a href=&quot;https://alexjj.com/2021/10/25.html#a153109&quot;&gt;re: reMarkable&lt;/a&gt;" created="Mon, 25 Oct 2021 16:58:39 GMT" collapse="true">
+					<outline text="To @Alex, &lt;a href=&quot;https://alexjj.com/2021/10/25.html#a153109&quot;&gt;re: reMarkable&lt;/a&gt;" created="Mon, 25 Oct 2021 16:58:39 GMT" collapse="true">
 						<outline text="I sold my reMarkable tablet. It did the writing on screen thing wonderfully and loved that. But, you wrote, &quot;I love paper notebooks to flick back through for some information&quot; and that's where I found the reMarkable to fall down. It's too slow and too much work. YMMV but I thought I'd mention it." created="Mon, 25 Oct 2021 16:58:49 GMT"/>
 						</outline>
+					<outline text="I don't need even one more &quot;take&quot; on Apple, its hardware, privacy stance, financials, or whining about &quot;but Steve...&quot;" created="Mon, 25 Oct 2021 19:17:58 GMT"/>
 					</outline>
 				<outline text="Good morning" created="Mon, 25 Oct 2021 17:44:21 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-8rjHNzw/0/26ea8cd2/XL/IMG_0446-XL.jpg"/>
 				</outline>

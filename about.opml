@@ -10,23 +10,24 @@
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>jack@baty.net</ownerEmail>
-		<dateModified>Tue, 19 Oct 2021 13:45:39 GMT</dateModified>
-		<expansionState>1</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Tue, 26 Oct 2021 09:33:10 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
-		<outline text="&lt;h2&gt;About Jack Baty&lt;/h2&gt;" created="Fri, 15 Oct 2021 10:32:28 GMT" type="outline">
-			<outline text="(...and his Rudimentary Lathe)" created="Fri, 15 Oct 2021 10:37:26 GMT"/>
-			</outline>
-		<outline text="&lt;h3&gt;Your host&lt;/h3&gt;" created="Mon, 11 Oct 2021 14:14:29 GMT"/>
+		<outline text="&lt;h2&gt;About Jack Baty&lt;/h2&gt;" created="Fri, 15 Oct 2021 10:32:28 GMT"/>
 		<outline text="&lt;img src=&quot;https://static.baty.net/images/jack-profile-400px.jpg&quot; alt=&quot;Jack Baty profile photo&quot; &lt;=&quot;&quot; img=&quot;&quot;&gt;" created="Fri, 15 Oct 2021 10:38:41 GMT"/>
-		<outline text="I was a web developer for a long time, starting in 1995. It was exciting, heady stuff. I co-owned a small web development agency, and so my focus moved to project and client management, which went on until we sold the company in 2020. I'm currently taking a short sabbatical." created="Mon, 18 Oct 2021 21:43:16 GMT"/>
+		<outline text="&lt;small&gt;Your host&lt;/small&gt;" created="Mon, 11 Oct 2021 14:14:29 GMT"/>
+		<outline text="" created="Tue, 26 Oct 2021 09:29:24 GMT"/>
+		<outline text="I used to be a web developer, It started in 1995 when I joined Fusionary Media as a partner. It was exciting, heady stuff. Inevitably, my focus moved to project and client management. This continued until we sold the company in 2020. I'm currently on indefinite sabbatical." created="Mon, 18 Oct 2021 21:43:16 GMT"/>
 		<outline text="My favorite things are photography and tinkering on the web." created="Mon, 18 Oct 2021 21:45:46 GMT"/>
+		<outline text="" created="Tue, 26 Oct 2021 09:32:22 GMT"/>
+		<outline text="✉️ Email me: &lt;a href=&quot;mailto:jack@baty.net&quot;&gt;jack@baty.net&lt;/a&gt;" created="Tue, 26 Oct 2021 09:32:23 GMT"/>
 		<outline text="&lt;h3&gt;Where to find me online&lt;/h3&gt;" created="Sun, 10 Oct 2021 20:33:30 GMT"/>
 		<outline text="I take a lot of notes in TiddlyWiki at &lt;a href=&quot;https://rudimentarylathe.wiki&quot;&gt;RudimentaryLathe.wiki&lt;/a&gt;" created="Sun, 10 Oct 2021 20:33:36 GMT"/>
-		<outline text="My original blog is &lt;a href=&quot;https://baty.blog&quot;&gt;Baty.blog&lt;/a&gt;" created="Sun, 10 Oct 2021 20:34:52 GMT"/>
+		<outline text="I blog here at &lt;a href=&quot;https://baty.blog&quot;&gt;Baty.blog&lt;/a&gt;" created="Sun, 10 Oct 2021 20:34:52 GMT"/>
 		<outline text="My photography blog is &lt;a href=&quot;https://copingmechanism.com&quot;&gt;Copingmechanism.com&lt;/a&gt;" created="Sun, 10 Oct 2021 20:35:07 GMT"/>
 		<outline text="Photos are mostly &lt;a href=&quot;https://flickr.com/photos/jbaty&quot;&gt;shared on Flickr&lt;/a&gt; but also on Instagram as &lt;a href=&quot;https://instagram.com/jackbatyphoto&quot;&gt;@jackbatyphoto&lt;/a&gt; and on &lt;a href=&quot;https://jackbaty.smugmug.com&quot;&gt;SmugMug&lt;/a&gt;." created="Sun, 10 Oct 2021 20:35:23 GMT"/>
-		<outline text="And of course, &lt;a href=&quot;https://twitter.com/jackbaty&quot;&gt;@jackbaty&lt;/a&gt; on Twitter, since forever." created="Fri, 15 Oct 2021 12:44:45 GMT"/>
+		<outline text="&lt;a href=&quot;https://twitter.com/jackbaty&quot;&gt;@jackbaty&lt;/a&gt; on Twitter" created="Fri, 15 Oct 2021 12:44:45 GMT"/>
 		</body>
 	</opml>
