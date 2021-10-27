@@ -18,14 +18,29 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 26 Oct 2021 09:16:31 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Wed, 27 Oct 2021 09:40:37 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 27" created="Wed, 27 Oct 2021 09:01:47 GMT" type="calendarDay" name="27">
+				<outline text="Minutiae - Wednesday, October 27, 2021" created="Wed, 27 Oct 2021 09:01:48 GMT" type="outline">
+					<outline text="☀️ Clear +34°F" created="Wed, 27 Oct 2021 09:30:57 GMT"/>
+					<outline text="Started this morning at 4:00am with a mile walk (with the dog) , a short Apple Fitness workout, and meditation (Sam Harris)." created="Wed, 27 Oct 2021 09:29:53 GMT"/>
+					<outline text="I can't remember the last time FedEx was accurate with delivery estimates. For example, I have a package with status &quot;Out for Delivery&quot; with an estimated delivery date of tomorrow. At least this time it's a day early. Usually it's the other way 'round." created="Wed, 27 Oct 2021 09:01:54 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 26" created="Tue, 26 Oct 2021 09:16:15 GMT" type="calendarDay" name="26">
 				<outline text="Good morning" created="Tue, 26 Oct 2021 09:16:16 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-6WxMZZ7/0/c76bc72f/XL/2021-Roll-033-14-XL.jpg"/>
+				<outline text="Minutiae - Tuesday, October 26, 2021" created="Tue, 26 Oct 2021 10:22:37 GMT" type="outline">
+					<outline text="☀️ Clear +37°F" created="Tue, 26 Oct 2021 10:22:52 GMT"/>
+					<outline text="I'll be away from my desk a lot today, but one goal is to burn down my Home Assistant setup and start over with either just Apple Home or Home with &lt;a href=&quot;https://homebridge.io&quot;&gt;Homebridge&lt;/a&gt;. I'm done editing JSON files so that my lights work half the time." created="Tue, 26 Oct 2021 10:23:09 GMT"/>
+					<outline text="Somehow we turned bokeh into a goal when it's mostly just a crutch." created="Tue, 26 Oct 2021 10:27:00 GMT"/>
+					<outline text="I'm in &quot;just rolling with Drummer&quot; mode and not &quot;try and bend Drummer to my particular preferences&quot; mode. That can come later. The earlier version of me would've been neck-deep in scripting and automating and general tinkering. For now I'm just writing. I feel a little guilty about that. Not sure why." created="Tue, 26 Oct 2021 12:40:41 GMT"/>
+					<outline text="I have 2 instagram accounts: mrjackbaty and jackbatyphoto. The idea was that family/friend snapshot stuff would go at mrjackbaty and the &quot;good stuff&quot; belongs on jackbatyphoto. Now I'm not sure it was a good idea. It's not like I'm promoting my &quot;art&quot; or anything. Do I need a second account just for the keepers?" created="Tue, 26 Oct 2021 19:40:59 GMT"/>
+					<outline text="Added an &lt;a href=&quot;http://www.packal.org/workflow/macos-shortcuts-alfred&quot;&gt;Alfred workflow&lt;/a&gt; for triggering Shortcuts on Monterey" created="Tue, 26 Oct 2021 21:02:50 GMT"/>
+					</outline>
 				</outline>
 			<outline text="October 25" created="Mon, 25 Oct 2021 09:21:29 GMT" type="calendarDay" name="25">
 				<outline text="Pink Floyd's catalog is &lt;a href=&quot;https://www.qobuz.com/us-en/search?s=art_dis&amp;q=pink-floyd-in-hires-us&amp;i=boutique&quot;&gt;available in Hi-Res&lt;/a&gt;. Tempting, except I feel I might be done buying digital music. It's no longer important for me to &quot;own&quot; music, as everything is available all the time via streaming. (I use Apple Music and Qobuz). The fear of some edition of some album no longer being available is a non-issue that music nerds seem to get worked up about. Streaming is an ad-free nearly infinite radio station that always plays my requests. If I want to actually own music, I'll buy a physical (vinyl) copy. There, I finally said that out loud. Now I'm side-eyeing my Roon library." created="Mon, 25 Oct 2021 22:47:04 GMT" type="outline"/>
