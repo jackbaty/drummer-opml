@@ -10,9 +10,9 @@
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>jack@baty.net</ownerEmail>
-		<dateModified>Tue, 26 Oct 2021 09:33:10 GMT</dateModified>
+		<dateModified>Wed, 27 Oct 2021 10:15:58 GMT</dateModified>
 		<expansionState></expansionState>
-		<lastCursor>7</lastCursor>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="&lt;h2&gt;About Jack Baty&lt;/h2&gt;" created="Fri, 15 Oct 2021 10:32:28 GMT"/>
@@ -24,8 +24,8 @@
 		<outline text="" created="Tue, 26 Oct 2021 09:32:22 GMT"/>
 		<outline text="✉️ Email me: &lt;a href=&quot;mailto:jack@baty.net&quot;&gt;jack@baty.net&lt;/a&gt;" created="Tue, 26 Oct 2021 09:32:23 GMT"/>
 		<outline text="&lt;h3&gt;Where to find me online&lt;/h3&gt;" created="Sun, 10 Oct 2021 20:33:30 GMT"/>
-		<outline text="I take a lot of notes in TiddlyWiki at &lt;a href=&quot;https://rudimentarylathe.wiki&quot;&gt;RudimentaryLathe.wiki&lt;/a&gt;" created="Sun, 10 Oct 2021 20:33:36 GMT"/>
 		<outline text="I blog here at &lt;a href=&quot;https://baty.blog&quot;&gt;Baty.blog&lt;/a&gt;" created="Sun, 10 Oct 2021 20:34:52 GMT"/>
+		<outline text="I take a lot of notes in TiddlyWiki at &lt;a href=&quot;https://rudimentarylathe.wiki&quot;&gt;RudimentaryLathe.wiki&lt;/a&gt;" created="Sun, 10 Oct 2021 20:33:36 GMT"/>
 		<outline text="My photography blog is &lt;a href=&quot;https://copingmechanism.com&quot;&gt;Copingmechanism.com&lt;/a&gt;" created="Sun, 10 Oct 2021 20:35:07 GMT"/>
 		<outline text="Photos are mostly &lt;a href=&quot;https://flickr.com/photos/jbaty&quot;&gt;shared on Flickr&lt;/a&gt; but also on Instagram as &lt;a href=&quot;https://instagram.com/jackbatyphoto&quot;&gt;@jackbatyphoto&lt;/a&gt; and on &lt;a href=&quot;https://jackbaty.smugmug.com&quot;&gt;SmugMug&lt;/a&gt;." created="Sun, 10 Oct 2021 20:35:23 GMT"/>
 		<outline text="&lt;a href=&quot;https://twitter.com/jackbaty&quot;&gt;@jackbaty&lt;/a&gt; on Twitter" created="Fri, 15 Oct 2021 12:44:45 GMT"/>

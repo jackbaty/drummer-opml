@@ -3,19 +3,23 @@
 	<head>
 		<title>microblog</title>
 		<dateCreated>Mon, 18 Oct 2021 21:22:16 GMT</dateCreated>
-		<dateModified>Tue, 26 Oct 2021 11:18:49 GMT</dateModified>
+		<dateModified>Wed, 27 Oct 2021 15:49:01 GMT</dateModified>
 		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>jack@baty.net</ownerEmail>
 		<expansionState>1,2</expansionState>
-		<lastCursor>9</lastCursor>
+		<lastCursor>2</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/jackbaty/microblog.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="October 2021" created="Mon, 18 Oct 2021 21:25:33 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 27" created="Wed, 27 Oct 2021 15:09:10 GMT" type="calendarDay" name="27">
+				<outline text="I'm trying to avoid playing with new things if they also introduce new long-term dependencies." created="Wed, 27 Oct 2021 15:48:32 GMT" type="outline"/>
+				<outline text="TiddlyWiki and now Drummer have helped me realize that I don't really want to capital-B &quot;Blog&quot;, and I don't want to just Tweet either. I want to sort of narrate my day, in whatever form that might take. Images, short text, long text, whatever." created="Wed, 27 Oct 2021 15:09:11 GMT" type="outline"/>
+				</outline>
 			<outline text="October 26" created="Tue, 26 Oct 2021 10:14:24 GMT" type="calendarDay" name="26">
 				<outline text="I'm quite satisfied with Drummer for most of the things I write that can be public. I find it liberating not having to decide whether or not I should create a link for just about every word. Zettel schmettel." created="Tue, 26 Oct 2021 10:29:16 GMT" type="outline"/>
 				<outline text="Canceling subscriptions is very satisfying" created="Tue, 26 Oct 2021 10:14:25 GMT" type="outline"/>

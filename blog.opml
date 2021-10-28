@@ -18,17 +18,33 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 27 Oct 2021 09:40:37 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Thu, 28 Oct 2021 09:18:29 GMT</dateModified>
+		<expansionState>1,2,3,6</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 28" created="Thu, 28 Oct 2021 08:56:27 GMT" type="calendarDay" name="28">
+				<outline text="Good morning" created="Thu, 28 Oct 2021 08:56:28 GMT" type="outline">
+					<outline text="&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/jbaty/51634672664/in/dateposted-public/&quot; title=&quot;Large format self-portrait with Alice&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51634672664_882e2e513c_b.jpg&quot; width=&quot;1024&quot; height=&quot;819&quot; alt=&quot;Large format self-portrait with Alice&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;" created="Thu, 28 Oct 2021 08:56:32 GMT"/>
+					<outline text="Same couch as yesterday's shot. This one was much harder to make. (Linhof 4x5, Sironar-N 150mm, HP5+)" created="Thu, 28 Oct 2021 08:56:59 GMT"/>
+					</outline>
+				<outline text="Minutiae - Thursday, October 28, 2021" created="Thu, 28 Oct 2021 08:58:25 GMT" type="outline">
+					<outline text="Day 10 of doing a short meditation. I'm still in the 30-day Waking Up intro course, but it's &lt;i&gt;something&lt;/i&gt;." created="Thu, 28 Oct 2021 08:58:37 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 27" created="Wed, 27 Oct 2021 09:01:47 GMT" type="calendarDay" name="27">
+				<outline text="Flashed a copy of &lt;a href=&quot;https://homebridge.io&quot;&gt;Homebridge&lt;/a&gt; onto an old Raspberry Pi and it's up and running and part of Apple Home. That was the easy part. The problem is that at some point I misplaced my Hue Bridge so none of my Hue bulbs are controllable. Had to order a replacement. Also, I'd purchased a couple of Z-wave plugs so I have to abandon those and ordered Zigbee versions. I sure hope this  &lt;a href=&quot;https://buildwithmatter.com&quot;&gt;Matter&lt;/a&gt; stuff gains traction with everyone so one day this all becomes easier." created="Wed, 27 Oct 2021 15:49:39 GMT" type="outline" image="https://static.baty.net/images/small/homebridge.png"/>
+				<outline text="I wish I had &lt;a href=&quot;https://alexjj.com/2021/10/27/115328.html?title=programmaticallyUploadToDrummer&quot;&gt;Alex's energy&lt;/a&gt;." created="Wed, 27 Oct 2021 13:54:53 GMT" type="outline"/>
+				<outline text="I can't remember the last time FedEx was accurate with delivery estimates. For example, I have a package with status &quot;Out for Delivery&quot; with an estimated delivery date of tomorrow. At least this time it's a day early. Usually it's the other way 'round." created="Wed, 27 Oct 2021 09:01:54 GMT"/>
+				<outline text="Good morning" created="Wed, 27 Oct 2021 11:03:02 GMT" type="outline">
+					<outline text="&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/jbaty/51322394213/in/dateposted-public/&quot; title=&quot;Alice (2021)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51322394213_6404f27f43_b.jpg&quot; width=&quot;1024&quot; height=&quot;683&quot; alt=&quot;Alice (2021)&quot; &gt;&lt;=&quot;&quot; a=&quot;&quot;&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script/&gt;&lt;/a&gt;" created="Wed, 27 Oct 2021 11:03:06 GMT"/>
+					</outline>
 				<outline text="Minutiae - Wednesday, October 27, 2021" created="Wed, 27 Oct 2021 09:01:48 GMT" type="outline">
 					<outline text="☀️ Clear +34°F" created="Wed, 27 Oct 2021 09:30:57 GMT"/>
 					<outline text="Started this morning at 4:00am with a mile walk (with the dog) , a short Apple Fitness workout, and meditation (Sam Harris)." created="Wed, 27 Oct 2021 09:29:53 GMT"/>
-					<outline text="I can't remember the last time FedEx was accurate with delivery estimates. For example, I have a package with status &quot;Out for Delivery&quot; with an estimated delivery date of tomorrow. At least this time it's a day early. Usually it's the other way 'round." created="Wed, 27 Oct 2021 09:01:54 GMT"/>
+					<outline text="Trying a different approach to inline images on Drummer. I'm embedding (using HTML) images directly from Flickr or SmugMug. I don't know of a way to link an inlineImage to a full-size version without manually adding a link to the caption and I'd rather not do that. Yes, I could probably script it, but well." created="Wed, 27 Oct 2021 11:08:59 GMT"/>
+					<outline text="I still think that vertical video is stupid." created="Wed, 27 Oct 2021 21:19:48 GMT"/>
 					</outline>
 				</outline>
 			<outline text="October 26" created="Tue, 26 Oct 2021 09:16:15 GMT" type="calendarDay" name="26">
