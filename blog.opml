@@ -18,19 +18,39 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 28 Oct 2021 09:18:29 GMT</dateModified>
-		<expansionState>1,2,3,6</expansionState>
+		<dateModified>Sat, 30 Oct 2021 02:32:35 GMT</dateModified>
+		<expansionState>1,2,9</expansionState>
 		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 29" created="Fri, 29 Oct 2021 08:41:50 GMT" type="calendarDay" name="29">
+				<outline text="In which I predict Facebook's new name:" type="link" url="https://micro.blog/jack/12074256" created="Fri, 29 Oct 2021 14:36:32 GMT"/>
+				<outline text="This is a good one: Uses This / Justin Searls" type="link" url="https://usesthis.com/interviews/justin.searls/" created="Fri, 29 Oct 2021 14:07:15 GMT"/>
+				<outline text="Here's why I shouldn't be on social media: I can't let things go. I'll read some rando's overly confident and wildly, demonstrably wrong take on something and I simply can't stop being annoyed by it. It stews in my brain until my stomach hurts. I type angry responses into a browser, then (thankfully) delete them. It doesn't help." created="Fri, 29 Oct 2021 09:45:57 GMT" type="outline"/>
+				<outline text="So far my &lt;a href=&quot;https://homebridge.io&quot;&gt;Homebridge&lt;/a&gt; experiment as a simpler replacement for Home Assistant isn't going well. The web UI just seems to die randomly, requiring a restart. I'm seeing errors in the log about incompatible Node versions with the Hue plugin. This is exactly the kind of shit I wanted to avoid." created="Fri, 29 Oct 2021 09:22:06 GMT" type="outline"/>
+				<outline text="Syncing everything with iCloud" created="Fri, 29 Oct 2021 17:51:43 GMT" type="outline">
+					<outline text="I use Dropbox and Syncthing for syncing files between Macs but I've been teetering on moving everything to iCloud Drive. I did that today. What a mess, but I'm digging out of it. Even my dotfiles are in iCloud now. Eeek. All those symlinks! This was triggered by Dropbox just not running for some reason on my Mac Mini. I've no idea how long it's been off, but it means sync trouble for sure. I'm routing around the whole problem. Let's see if I've simply shifted from one set of problems to another. The idea is to consolidate my stuff and also make setting up new machines easier." created="Fri, 29 Oct 2021 17:54:44 GMT"/>
+					</outline>
+				<outline text="Good Morning" created="Fri, 29 Oct 2021 08:41:51 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-FnHBVSv/0/b7ccf38b/XL/20211002-L1000054-XL.jpg"/>
+				<outline text="Minutiae - Friday, October 29, 2021" created="Fri, 29 Oct 2021 09:52:20 GMT" type="outline">
+					<outline text="🌦 Light rain +48°F " created="Fri, 29 Oct 2021 09:53:07 GMT"/>
+					<outline text="I keep this &quot;Minutiae&quot; section so that every little thing I blurt out doesn't trigger an entry in peoples' RSS feeds. Just one big one each day." created="Fri, 29 Oct 2021 11:16:53 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 28" created="Thu, 28 Oct 2021 08:56:27 GMT" type="calendarDay" name="28">
+				<outline text="I was at Best Buy today (remember those?) so thought I'd peek at the new MacBook Pros. They look so...old! And I love them for it." created="Thu, 28 Oct 2021 21:51:28 GMT" type="outline"/>
+				<outline text="The Icarus Deception" created="Thu, 28 Oct 2021 12:34:36 GMT" type="outline" inlineImage="https://static.baty.net/images/2021/20211028-icarus-deception.png"/>
+				<outline text="Some days I can feel myself getting angry at things I have no control over. This is something I hope meditation can help with. Avoiding national news and viciously-curating my social media feeds helps. Still, I'm itching for a fight this morning and I need to step away for a minute." created="Thu, 28 Oct 2021 10:36:10 GMT" type="outline" image="https://static.baty.net/images/small/angry.png"/>
+				<outline text="No one is above criticism, but your criticism of Tony Fauci is misinformed and borderline idiotic." created="Thu, 28 Oct 2021 10:23:41 GMT" type="outline"/>
 				<outline text="Good morning" created="Thu, 28 Oct 2021 08:56:28 GMT" type="outline">
-					<outline text="&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/jbaty/51634672664/in/dateposted-public/&quot; title=&quot;Large format self-portrait with Alice&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51634672664_882e2e513c_b.jpg&quot; width=&quot;1024&quot; height=&quot;819&quot; alt=&quot;Large format self-portrait with Alice&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;" created="Thu, 28 Oct 2021 08:56:32 GMT"/>
+					<outline text="&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/jbaty/51634672664/in/dateposted-public/&quot; title=&quot;Large format self-portrait with Alice&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51634672664_882e2e513c_b.jpg&quot; width=&quot;1024&quot; height=&quot;819&quot; alt=&quot;Large format self-portrait with Alice&quot; &gt;&lt;=&quot;&quot; a=&quot;&quot; &gt;&lt;script=&quot;&quot; async=&quot;&quot; charset=&quot;utf-8&quot; script=&quot;&quot;&gt;&lt;/a&gt;" created="Thu, 28 Oct 2021 08:56:32 GMT"/>
 					<outline text="Same couch as yesterday's shot. This one was much harder to make. (Linhof 4x5, Sironar-N 150mm, HP5+)" created="Thu, 28 Oct 2021 08:56:59 GMT"/>
 					</outline>
 				<outline text="Minutiae - Thursday, October 28, 2021" created="Thu, 28 Oct 2021 08:58:25 GMT" type="outline">
 					<outline text="Day 10 of doing a short meditation. I'm still in the 30-day Waking Up intro course, but it's &lt;i&gt;something&lt;/i&gt;." created="Thu, 28 Oct 2021 08:58:37 GMT"/>
+					<outline text="Helped my dad pick out a new iPhone (13 Mini). His current phone is a (my) hand-me-down SE from way back. The cellular radio is wonky and it drops off Wifi every 10 minutes. Plus, 16GB? Why fight it?" created="Thu, 28 Oct 2021 14:08:00 GMT"/>
+					<outline text="Testing a link node" created="Thu, 28 Oct 2021 21:30:43 GMT" type="link" url="https://baty.net"/>
 					</outline>
 				</outline>
 			<outline text="October 27" created="Wed, 27 Oct 2021 09:01:47 GMT" type="calendarDay" name="27">
@@ -38,7 +58,7 @@
 				<outline text="I wish I had &lt;a href=&quot;https://alexjj.com/2021/10/27/115328.html?title=programmaticallyUploadToDrummer&quot;&gt;Alex's energy&lt;/a&gt;." created="Wed, 27 Oct 2021 13:54:53 GMT" type="outline"/>
 				<outline text="I can't remember the last time FedEx was accurate with delivery estimates. For example, I have a package with status &quot;Out for Delivery&quot; with an estimated delivery date of tomorrow. At least this time it's a day early. Usually it's the other way 'round." created="Wed, 27 Oct 2021 09:01:54 GMT"/>
 				<outline text="Good morning" created="Wed, 27 Oct 2021 11:03:02 GMT" type="outline">
-					<outline text="&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/jbaty/51322394213/in/dateposted-public/&quot; title=&quot;Alice (2021)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51322394213_6404f27f43_b.jpg&quot; width=&quot;1024&quot; height=&quot;683&quot; alt=&quot;Alice (2021)&quot; &gt;&lt;=&quot;&quot; a=&quot;&quot;&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script/&gt;&lt;/a&gt;" created="Wed, 27 Oct 2021 11:03:06 GMT"/>
+					<outline text="&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/jbaty/51322394213/in/dateposted-public/&quot; title=&quot;Alice (2021)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51322394213_6404f27f43_b.jpg&quot; width=&quot;1024&quot; height=&quot;683&quot; alt=&quot;Alice (2021)&quot; &gt;&lt;=&quot;&quot; a=&quot;&quot; &gt;&lt;script=&quot;&quot; async=&quot;&quot; charset=&quot;utf-8&quot; script=&quot;&quot;&gt;&lt;/a&gt;" created="Wed, 27 Oct 2021 11:03:06 GMT"/>
 					</outline>
 				<outline text="Minutiae - Wednesday, October 27, 2021" created="Wed, 27 Oct 2021 09:01:48 GMT" type="outline">
 					<outline text="☀️ Clear +34°F" created="Wed, 27 Oct 2021 09:30:57 GMT"/>
