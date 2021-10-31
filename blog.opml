@@ -18,12 +18,21 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 30 Oct 2021 02:32:35 GMT</dateModified>
-		<expansionState>1,2,9</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Sun, 31 Oct 2021 19:46:56 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>25</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 31" created="Sun, 31 Oct 2021 09:26:07 GMT" type="calendarDay" name="31">
+				<outline text="I gutted my shell/terminal setup recently. Plain zsh (no more oh-my-zsh). Terminal.app and not iTerm2. Rebuilt .zshrc. The idea being that I want fewer dependencies and abstractions. Guess what, I kind of hate it. And now I'm now re-considering &lt;a href=&quot;https://fishshell.com&quot;&gt;Fish shell&lt;/a&gt;. Good grief." created="Sun, 31 Oct 2021 19:39:43 GMT" type="outline"/>
+				<outline text="Good morning" created="Sun, 31 Oct 2021 09:26:08 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-vsZLxdN/0/5199da4a/XL/i-vsZLxdN-XL.jpg"/>
+				</outline>
+			<outline text="October 30" created="Sat, 30 Oct 2021 10:18:25 GMT" type="calendarDay" name="30">
+				<outline text="Minutiae - Saturday, October 30, 2021" created="Sat, 30 Oct 2021 10:18:26 GMT" type="outline">
+					<outline text="Tailgating at the MSU/Michigan game today. It's going to be a zoo." created="Sat, 30 Oct 2021 10:18:33 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 29" created="Fri, 29 Oct 2021 08:41:50 GMT" type="calendarDay" name="29">
 				<outline text="In which I predict Facebook's new name:" type="link" url="https://micro.blog/jack/12074256" created="Fri, 29 Oct 2021 14:36:32 GMT"/>
 				<outline text="This is a good one: Uses This / Justin Searls" type="link" url="https://usesthis.com/interviews/justin.searls/" created="Fri, 29 Oct 2021 14:07:15 GMT"/>
