@@ -3,18 +3,23 @@
 	<head>
 		<title>microblog</title>
 		<dateCreated>Mon, 18 Oct 2021 21:22:16 GMT</dateCreated>
-		<dateModified>Fri, 29 Oct 2021 11:18:24 GMT</dateModified>
+		<dateModified>Mon, 01 Nov 2021 09:15:47 GMT</dateModified>
 		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>jack@baty.net</ownerEmail>
-		<expansionState>1,2,4,6</expansionState>
+		<expansionState>1,2,4,5,7,9</expansionState>
 		<lastCursor>2</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/jackbaty/microblog.opml</urlPublic>
 		</head>
 	<body>
+		<outline text="November 2021" created="Mon, 01 Nov 2021 09:15:36 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 1" created="Mon, 01 Nov 2021 09:15:37 GMT" type="calendarDay" name="01">
+				<outline text="Succession is turning into a cartoon" created="Mon, 01 Nov 2021 09:15:38 GMT" type="outline"/>
+				</outline>
+			</outline>
 		<outline text="October 2021" created="Mon, 18 Oct 2021 21:25:33 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 29" created="Fri, 29 Oct 2021 11:18:12 GMT" type="calendarDay" name="29">
 				<outline text="Did Instagram suddenly start displaying photos much larger in the web UI? They seem bigger alluvasudden." created="Fri, 29 Oct 2021 11:18:13 GMT" type="outline"/>

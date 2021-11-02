@@ -18,15 +18,41 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 31 Oct 2021 19:46:56 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>25</lastCursor>
+		<dateModified>Tue, 02 Nov 2021 08:08:38 GMT</dateModified>
+		<expansionState>1</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
+		<outline text="November 2021" created="Mon, 01 Nov 2021 08:42:38 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 1" created="Mon, 01 Nov 2021 08:42:39 GMT" type="calendarDay" name="01">
+				<outline text="So here I am, once again thinking of moving all my task management to OmniFocus...again. See also 2011 and 2014's: &lt;a href=&quot;https://jackbaty.medium.com/still-on-the-gtd-merry-go-round-8d08cb8dfe22&quot;&gt;Still on the GTD Merry-Go-Round&lt;/a&gt;. This time it's mostly due to boredom and procrastination. I'm fine with that." created="Mon, 01 Nov 2021 19:56:23 GMT" type="outline"/>
+				<outline text="So many opinions about software are based on things I don't worry about. &quot;It doesn't work on iOS&quot;. &quot;It's a subscription.&quot; &quot;It's not open source.&quot; &quot;Too expensive.&quot; I have to weed those out so I can judge a review or article's suitability for me." created="Mon, 01 Nov 2021 18:53:53 GMT" type="outline"/>
+				<outline text="I'm about halfway through my &lt;a href=&quot;https://www.rippletraining.com&quot;&gt;Ripple Training course&lt;/a&gt; for DaVinci Resolve. What a deep and wide application Resolve is. I started out thinking I at least know the &lt;i&gt;concepts&lt;/i&gt; behind editing and grading, but now I'm learning that I know almost nothing. I have a very long way to go." created="Mon, 01 Nov 2021 18:08:14 GMT" type="outline"/>
+				<outline text="Fish Shell (again)" created="Mon, 01 Nov 2021 10:45:04 GMT" type="outline" image="https://static.baty.net/images/small/fishshell.png">
+					<outline text="I'm still in reduce-dependencies-and-abstractions mode, but after &lt;a href=&quot;https://baty.blog/2021/10/31.html#a193943&quot;&gt;gutting my shell configuration&lt;/a&gt; recently, I learned that I still need a little help. A barebones terminal/shell is just not as useful. I almost reverted to using oh-my-zsh, but I remembered I still had &lt;a href=&quot;https://fishshell.com&quot;&gt;Fish Shell&lt;/a&gt; installed, so I fired that back up. I've gotta say, Fish really is delightful right out of the box.  " created="Mon, 01 Nov 2021 10:45:12 GMT"/>
+					<outline text="The trick with Fish is to remember that instead of aliases it's better to write small functions in ~/.config/fish/functions. Name the file with what would normally be an alias and that function runs automatically. For example, I do a simple replacement for the built-in &quot;ls&quot; command by adding the &quot;-G&quot; flag so that the output is colorized on my Mac. Here's the entire function in ~/.config/fish/functions/ls.fish..." created="Mon, 01 Nov 2021 10:51:31 GMT"/>
+					<outline text="&lt;code&gt; function ls&lt;br&gt;     command ls -G $argv&lt;br&gt; end&lt;/code&gt;" created="Mon, 01 Nov 2021 10:54:37 GMT"/>
+					<outline text="Everything else goes in ~/.config/fish/config.fish but so far I've avoided adding anything there. $PATH changes are done via something like &lt;code&gt;fish_add_path ~/bin&lt;/code&gt;" created="Mon, 01 Nov 2021 10:55:07 GMT"/>
+					<outline text="Another nice thing is &quot;abbr&quot;. Abbreviations are like Textexpander snippets for the shell. This can be preferable to aliases because it expands to the full commands, meaning I know what I'm actually doing and the shell's history has the real commands. See? Less abstraction!" created="Mon, 01 Nov 2021 11:10:50 GMT"/>
+					<outline text="Fish's completion and history management are fantastic and require no setup or additional configuration." created="Mon, 01 Nov 2021 10:56:33 GMT"/>
+					</outline>
+				<outline text="My two favorite ladies" created="Mon, 01 Nov 2021 09:07:37 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-zWtXRgC/0/66a761dc/XL/i-zWtXRgC-XL.jpg"/>
+				<outline text="Minutiae - Monday, November 1, 2021" created="Mon, 01 Nov 2021 08:42:40 GMT" type="outline">
+					<outline text="I'm going to try collapsing most of the minutiae entries by default. Open this node if you're interested." created="Mon, 01 Nov 2021 09:08:02 GMT" collapse="true">
+						<outline text="Mon 1: It's a Monday and the first day of a new month: A journaler's dream " created="Mon, 01 Nov 2021 09:16:16 GMT"/>
+						<outline text="Can I collapse this? Turns out yes, by setting a &quot;collapse&quot; attribute to &quot;true&quot;. Let's try it." created="Mon, 01 Nov 2021 09:11:34 GMT"/>
+						<outline text="I'm guessing that if I hide this section by default that almost no one will see it. That's probably OK, since this section is really just me taking notes, and may only be of interest to those few crazies who are interested in this sort of thing." created="Mon, 01 Nov 2021 09:12:42 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 17:41:50 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 31" created="Sun, 31 Oct 2021 09:26:07 GMT" type="calendarDay" name="31">
 				<outline text="I gutted my shell/terminal setup recently. Plain zsh (no more oh-my-zsh). Terminal.app and not iTerm2. Rebuilt .zshrc. The idea being that I want fewer dependencies and abstractions. Guess what, I kind of hate it. And now I'm now re-considering &lt;a href=&quot;https://fishshell.com&quot;&gt;Fish shell&lt;/a&gt;. Good grief." created="Sun, 31 Oct 2021 19:39:43 GMT" type="outline"/>
 				<outline text="Good morning" created="Sun, 31 Oct 2021 09:26:08 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-vsZLxdN/0/5199da4a/XL/i-vsZLxdN-XL.jpg"/>
+				<outline text="Minutiae - Sunday, October 31, 2021" created="Sun, 31 Oct 2021 19:49:01 GMT" type="outline">
+					<outline text="Accidentally deleted a long post from earlier in my outline. I had made changes since my last backup so what to do? Simple, grab an earlier blog.opml file via &quot;Import OPML...&quot; and copy/paste the missing node. Easy peasy." created="Sun, 31 Oct 2021 19:49:11 GMT"/>
+					</outline>
 				</outline>
 			<outline text="October 30" created="Sat, 30 Oct 2021 10:18:25 GMT" type="calendarDay" name="30">
 				<outline text="Minutiae - Saturday, October 30, 2021" created="Sat, 30 Oct 2021 10:18:26 GMT" type="outline">
