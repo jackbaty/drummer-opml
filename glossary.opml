@@ -3,18 +3,21 @@
 	<head>
 		<title>glossary</title>
 		<dateCreated>Sun, 10 Oct 2021 19:08:08 GMT</dateCreated>
-		<dateModified>Fri, 22 Oct 2021 14:57:59 GMT</dateModified>
+		<dateModified>Sun, 07 Nov 2021 15:15:13 GMT</dateModified>
 		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<expansionState>1</expansionState>
-		<lastCursor>0</lastCursor>
+		<expansionState>2</expansionState>
+		<lastCursor>2</lastCursor>
 		<ownerEmail>jack@baty.net</ownerEmail>
 		</head>
 	<body>
 		<outline text="thelathe" created="Sun, 10 Oct 2021 19:08:08 GMT">
 			<outline text="&lt;a href=&quot;https://rudimentarylathe.wiki&quot;&gt;RudimentaryLathe.wiki&lt;/a&gt;" created="Mon, 11 Oct 2021 08:52:40 GMT"/>
+			</outline>
+		<outline text="TinderboxLink" created="Sun, 07 Nov 2021 15:14:43 GMT">
+			<outline text="&lt;a href=&quot;https://eastgate.com/Tinderbox&quot;&gt;Tinderbox&lt;/a&gt;" created="Sun, 07 Nov 2021 15:14:55 GMT"/>
 			</outline>
 		</body>
 	</opml>

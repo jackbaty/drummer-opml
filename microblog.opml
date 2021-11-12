@@ -3,19 +3,31 @@
 	<head>
 		<title>microblog</title>
 		<dateCreated>Mon, 18 Oct 2021 21:22:16 GMT</dateCreated>
-		<dateModified>Mon, 01 Nov 2021 09:15:47 GMT</dateModified>
+		<dateModified>Sat, 06 Nov 2021 10:17:31 GMT</dateModified>
 		<ownerTwitterScreenName>jackbaty</ownerTwitterScreenName>
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>jack@baty.net</ownerEmail>
-		<expansionState>1,2,4,5,7,9</expansionState>
+		<expansionState>1,2,4,6,8,10,12,13,15,17</expansionState>
 		<lastCursor>2</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/jackbaty/microblog.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 09:15:36 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 6" created="Sat, 06 Nov 2021 10:14:08 GMT" type="calendarDay" name="06">
+				<outline text="It's possible that the worst thing for my productivity was thinking, &quot;But what about when I'm on my phone?&quot;. Worrying about software being cross-platform has closed more doors than it has opened." created="Sat, 06 Nov 2021 10:14:09 GMT" type="outline"/>
+				</outline>
+			<outline text="November 4" created="Thu, 04 Nov 2021 12:34:54 GMT" type="calendarDay" name="04">
+				<outline text="I have yet to see evidence of a sane conversation around the behavior of cyclists vs car drivers. And why does the &quot;vs&quot; seem mandatory?" created="Thu, 04 Nov 2021 12:34:55 GMT" type="outline"/>
+				</outline>
+			<outline text="November 3" created="Wed, 03 Nov 2021 16:47:29 GMT" type="calendarDay" name="03">
+				<outline text="I have been harshly evaluating software license/subscription renewals as they come due, but I never question @eastgate's Tinderbox. After more than 15 years it remains the most widely useful &quot;tool for thought&quot; on my Mac. " created="Wed, 03 Nov 2021 16:47:30 GMT" type="outline"/>
+				</outline>
+			<outline text="November 2" created="Tue, 02 Nov 2021 09:10:28 GMT" type="calendarDay" name="02">
+				<outline text="As a long-time Vim user, I end up accidentally typing a lot of slack messages like this." created="Tue, 02 Nov 2021 09:10:29 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-nfw5mK2/1/2ba1cadf/M/i-nfw5mK2-M.png"/>
+				</outline>
 			<outline text="November 1" created="Mon, 01 Nov 2021 09:15:37 GMT" type="calendarDay" name="01">
 				<outline text="Succession is turning into a cartoon" created="Mon, 01 Nov 2021 09:15:38 GMT" type="outline"/>
 				</outline>

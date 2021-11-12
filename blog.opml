@@ -10,7 +10,7 @@
 		<urlGlossary>http://drummer.scripting.com/jackbaty/glossary.opml</urlGlossary>
 		<ownerEmail>jack@baty.net</ownerEmail>
 		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/jackbaty/linkblog.json</urlLinkblogJson>
-		<description>I already spent the money</description>
+		<description>Fungin' all your Tokens</description>
 		<urlAboutOpml>http://drummer.scripting.com/jackbaty/about.opml</urlAboutOpml>
 		<urlBlogWebsite>https://baty.blog/</urlBlogWebsite>
 		<urlTemplate>https://static.baty.net/code/drummer/templates/minimal/index.html</urlTemplate>
@@ -18,12 +18,98 @@
 		<ownerName>Jack Baty</ownerName>
 		<ownerId>http://twitter.com/jackbaty</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 02 Nov 2021 08:08:38 GMT</dateModified>
-		<expansionState>1</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Fri, 12 Nov 2021 17:31:36 GMT</dateModified>
+		<expansionState>1,2,7,9,12,14</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 08:42:38 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 12" created="Fri, 12 Nov 2021 12:10:12 GMT" type="calendarDay" name="12">
+				<outline text="Do you remember when setting up an HP printer was a fruitless, day-long nightmare? I'm here to tell you those days appear to be over. I just got an &lt;a href=&quot;https://www.hp.com/us-en/printers/tango.html&quot;&gt;HP Tango&lt;/a&gt; for making small photo prints and the whole process was smooth, simple, and successful. I subscribed to &quot;Instant Ink&quot; so I'll no longer avoid making prints because I'm worried about running out of ink. I'm a little creeped out by the whole &quot;smart printer&quot; concept but the benefits outweigh whatever risks I've dreamt up." created="Fri, 12 Nov 2021 17:26:13 GMT" type="outline" image="https://static.baty.net/images/small/hp-logo.png"/>
+				<outline text="I'm a little crabby today, it seems. Probably because I ran out of Dektol so there will be no darkroom printing until next week. I'm usually so good and never running out of anything." created="Fri, 12 Nov 2021 17:18:21 GMT" type="outline"/>
+				<outline text="The key to acquiring &quot;Followers&quot; seems to be posting short, useless, boring platitudes usually better suited to motivational posters or bumper stickers." created="Fri, 12 Nov 2021 15:30:54 GMT" type="outline"/>
+				<outline text="I recently considered putting all of my writing on thelathe, blog posts included. I'm not so sure that's a good idea. I &lt;i&gt;like&lt;/i&gt; having a real blog" created="Fri, 12 Nov 2021 12:10:13 GMT" type="outline"/>
+				</outline>
+			<outline text="November 11" created="Thu, 11 Nov 2021 09:49:13 GMT" type="calendarDay" name="11">
+				<outline text="I don't enjoy making contact sheets, but I love &lt;i&gt;having&lt;/i&gt; them." created="Thu, 11 Nov 2021 09:49:14 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-49tRT9j/0/a87f9d95/XL/i-49tRT9j-XL.jpg"/>
+				</outline>
+			<outline text="November 10" created="Wed, 10 Nov 2021 22:36:46 GMT" type="calendarDay" name="10">
+				<outline text="Discord isn't a &quot;community&quot;, it's a crowded room with bad acoustics and everyone talking at once." created="Wed, 10 Nov 2021 22:39:40 GMT" type="outline"/>
+				<outline text="boomer | ˈbo͞omər |: n. A person old enough to see through your bullshit." created="Wed, 10 Nov 2021 22:36:47 GMT" type="outline"/>
+				</outline>
+			<outline text="November 9" created="Tue, 09 Nov 2021 10:24:37 GMT" type="calendarDay" name="09">
+				<outline text="This is a rough draft for a publication that will never be written." created="Tue, 09 Nov 2021 10:24:38 GMT" type="outline"/>
+				</outline>
+			<outline text="November 8" created="Mon, 08 Nov 2021 09:55:11 GMT" type="calendarDay" name="08">
+				<outline text="Beyond the Infinite" created="Mon, 08 Nov 2021 11:15:34 GMT" type="outline">
+					<outline text="Everything goes here forever" created="Mon, 08 Nov 2021 11:18:30 GMT" inlineImage="https://photos.smugmug.com/photos/i-KRXQ3C4/0/f15caa69/S/i-KRXQ3C4-S.png"/>
+					<outline text="There is always a conflict between keeping my Mac's desktop clean while also tossing every random file I come across onto it. I have (I think) solved this problem by creating a folder on my desktop into which I will move everything that doesn't otherwise get used elsewhere. My plan is to &lt;i&gt;never&lt;/i&gt; delete things in this folder. It's going to be complete chaos in there, but it means that I never have to decide what desktop files to keep and where to put them. A fair trade." created="Mon, 08 Nov 2021 11:15:53 GMT"/>
+					</outline>
+				<outline text="I just learned that Signal messenger has a &quot;&lt;a href=&quot;https://support.signal.org/hc/en-us/articles/360043272451-Note-to-Self&quot;&gt;Note to Self&lt;/a&gt;&quot; feature. This is just a special contact I can use to send myself files and messages." created="Mon, 08 Nov 2021 10:59:14 GMT" type="outline"/>
+				<outline text="My wife got me this tape dispenser years ago. She knows me." created="Mon, 08 Nov 2021 09:55:12 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-VR44KhX/0/XL/i-VR44KhX-XL.jpg"/>
+				</outline>
+			<outline text="November 7" created="Sun, 07 Nov 2021 11:54:07 GMT" type="calendarDay" name="07">
+				<outline text="Where I write" created="Sun, 07 Nov 2021 15:35:11 GMT" type="outline">
+					<outline text="This morning I was tinkering with my TinderboxLink based &lt;a href=&quot;https://notes.baty.net&quot;&gt;blog&lt;/a&gt; and wrote a note about &lt;a href=&quot;https://notes.baty.net/posts/2021/11/ItsaboutwhereIliketotype&quot;&gt;where I like to type&lt;/a&gt; and how it affects where I feel like publishing. I often chastise myself for having too many places online for the stuff I write. It's true, I probably do have too many places, but I'm me and sometimes I feel like writing in Tinderbox, sometimes in Org mode, sometimes in TiddlyWiki, and sometimes in a Drummer outline. I'm going to have to learn to be OK with this." created="Sun, 07 Nov 2021 15:35:14 GMT"/>
+					</outline>
+				<outline text="Dug out my Spark file" created="Sun, 07 Nov 2021 15:11:53 GMT" type="outline">
+					<outline text="Steven Johnson wrote about &lt;a href=&quot;https://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58&quot;&gt;keeping a &quot;Spark File&quot;&lt;/a&gt; back in 2012 and I started one of my own immediately after reading his article. I kept it going from 2012 through 2016 in either a text file or TinderboxLink, depending on my mood." created="Sun, 07 Nov 2021 15:12:10 GMT"/>
+					<outline text="After recently &lt;a href=&quot;  https://rudimentarylathe.wiki/#2021.11.03%20-%20Subscribed%20to%20Steven%20Johnson%20newsletter&quot;&gt;subscribing to Johnson's newsletter&lt;/a&gt;, I was reminded about my old spark file and so I dug it out of the archives (it's a Tinderbox file) and had a blast skimming through it. Some of the ideas in it are simply terrible. Some, now nearly a decade old, are depressingly valid and yet still undone. Keeping a file like this is a great idea so I'm determined to bring back the practice." created="Sun, 07 Nov 2021 15:13:45 GMT"/>
+					<outline text="This time I'll keep it in Org mode since right now that's where all my &quot;logging&quot; goes. I set up a capture template to make sure I don't miss any million-dollar ideas. The template looks like this:" created="Sun, 07 Nov 2021 15:18:55 GMT">
+						<outline text="&lt;code&gt;(&quot;s&quot; &quot;Add to Spark File&quot; entry (file+headline ,(concat org-directory &quot;sparkfile.org&quot;) &quot;Sparks&quot;) &quot;* %?\n%U&quot; :prepend t)&lt;/code&gt; " created="Sun, 07 Nov 2021 15:24:04 GMT"/>
+						</outline>
+					<outline text="I exported my old Tinderbox file into an outline, copied and pasted it into sparkfile.org and did a quick find and replace to convert all the history into a nice org mode format. Let the sparks fly!" created="Sun, 07 Nov 2021 15:20:44 GMT"/>
+					</outline>
+				<outline text="Some things I'd like to try with Drummer" created="Sun, 07 Nov 2021 14:27:22 GMT" type="outline">
+					<outline text="I've tried modifying the Drummer bookmarklet so that it's easier to use for link blogging. Currently, the bookmarklet adds a link node with selected text as a child node to my Notes.opml file. This is handy, and I've found that simply copy/pasting the entry into my blog.opml creates a nice link entry for my blog. But, I want the entry formatted as a single entry and would like the quoted text wrapped in a blockquote. I tried doing this myself but I can't get the bookmarklet to work. It's an encoding or string problem but I can't figure out what's wrong." created="Sun, 07 Nov 2021 14:27:31 GMT"/>
+					<outline text="I'd like to use Tinderbox for outlining and publish the outline here on Drummer. I'm sure this is trivial but I have not had the energy to tackle it myself." created="Sun, 07 Nov 2021 14:30:32 GMT"/>
+					<outline text="This may not be a Drummer thing, but the outliner is a little buggy for me. For example, I can't select text with the mouse. That seems like table stakes, and I've not heard anyone else talking about it, so it must just be me. I've tried 3 browsers and disabling all extensions but I'm only able to click and drag to select text once in a while. Not sure why it changes. Also, I find that hitting CTRL-enter doesn't always break the node at the insertion point. It seems random. Still haven't had the energy to either look into or report this." created="Sun, 07 Nov 2021 14:31:43 GMT"/>
+					<outline text="My head space lately doesn't have the bandwidth or focus to tackle this stuff, even though I find Drummer brilliant and fascinating with endless potential. Hopefully I'll snap out of my funk sooner rather than later. I'd love to contribute." created="Sun, 07 Nov 2021 15:33:30 GMT"/>
+					</outline>
+				<outline text="Shambling Meat" created="Sun, 07 Nov 2021 12:18:25 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-zk9VBtz/0/4380a0f7/M/shambling-meat-M.png"/>
+				<outline text="A New Search Engine Worth Trying: Neeva - James Fallows&lt;br&gt;&lt;blockquote&gt;For now, let’s skip the question of which results end up at the top of the list, and why. The point is, none of them is an ad.&lt;/blockquote&gt;" type="link" url="https://fallows.substack.com/p/a-new-search-engine-worth-trying" created="Sun, 07 Nov 2021 12:09:44 GMT"/>
+				<outline text="Wingin' it" created="Sun, 07 Nov 2021 11:54:08 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-Xw86ZM6/0/6de793ca/XL/20211106-Q1000328-XL.jpg"/>
+				</outline>
+			<outline text="November 6" created="Sat, 06 Nov 2021 13:16:50 GMT" type="calendarDay" name="06">
+				<outline text="Typical" created="Sat, 06 Nov 2021 13:16:51 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-CQ3VV3C/0/dd54b308/X2/i-CQ3VV3C-X2.jpg"/>
+				</outline>
+			<outline text="November 5" created="Fri, 05 Nov 2021 14:06:56 GMT" type="calendarDay" name="05">
+				<outline text="You Need a House Cardigan | GQ &lt;br&gt;&lt;blockquote&gt;My entire consumerist attitude sits right between “I don’t like people buying stuff just because they can” and “I really like nice things.”&lt;/blockquote&gt;" type="link" url="https://www.gq.com/story/you-need-a-house-cardigan" created="Fri, 05 Nov 2021 17:47:08 GMT"/>
+				<outline text="Watch media and not exist" created="Fri, 05 Nov 2021 14:06:57 GMT" type="outline" inlineImage="https://photos.smugmug.com/Blog-Photos/i-c4vmjw9/0/b0a8f53c/M/FugitiveTelemetry-M.png"/>
+				</outline>
+			<outline text="November 4" created="Thu, 04 Nov 2021 12:24:15 GMT" type="calendarDay" name="04">
+				<outline text="My (neglected) Tinderbox Daybook for 2021" created="Thu, 04 Nov 2021 22:31:20 GMT" type="outline">
+					<outline text="The Dashboard" created="Thu, 04 Nov 2021 22:32:34 GMT" inlineImage="https://photos.smugmug.com/Blog-Photos/i-fFmJck9/0/f6f77fac/XL/dash-XL.png"/>
+					<outline text="I began using Tinderbox for my Daybook in 2006 or 2007 and &lt;a href=&quot;https://archive.baty.net/2008/tinderbox-as-a-daybook/&quot;&gt;first wrote about it 2008&lt;/a&gt;. It evolved over the years, and I &lt;a href=&quot;https://archive.baty.net/2018/tinderbox-daybook-tour/&quot;&gt;described it again in 2018&lt;/a&gt;. Around that time I had become infatuated with Org mode and TiddlyWiki, so my Tinderbox Daybook fell out of favor." created="Thu, 04 Nov 2021 22:33:06 GMT"/>
+					<outline text="I dusted off the otherwise neglected 2021 edition a week or so ago and have enjoyed writing in it again. Tinderbox really is a fantastically deep and powerful application that can be useful for nearly anything involving words. I'm adding &quot;Log everything in Tinderbox&quot; to my &lt;a href=&quot;  https://rudimentarylathe.wiki/#Monthly%20Challenges%20-%20November%202021&quot;&gt;Monthly Challenge for November.&lt;/a&gt;" created="Thu, 04 Nov 2021 22:40:22 GMT"/>
+					</outline>
+				<outline text="Nice Marmot - Asynchronous conversations: &lt;blockquote&gt;There are, for most people I think, two kinds of tools. Ones that you use to do something that needs to be done, but you don't particularly care about how it gets done, just something that does the job; and ones that you use to do something a lot, and you're very interested in how it gets done, and how &quot;done&quot; turns out.&lt;/blockquote&gt;" type="link" url="https://nice-marmot.net/Archives/2021/October_2021.html#note_582" created="Thu, 04 Nov 2021 13:38:30 GMT"/>
+				<outline text="Attention - Sam Harris" created="Thu, 04 Nov 2021 12:24:16 GMT" type="outline" inlineImage="https://static.baty.net/images/2021/20211104-wakingup.png"/>
+				</outline>
+			<outline text="November 3" created="Wed, 03 Nov 2021 12:31:30 GMT" type="calendarDay" name="03">
+				<outline text="Roon Done Right: A User Guide, Part Two – PS Audio" type="link" url="https://www.psaudio.com/copper/article/roon-done-right-a-user-guide-part-two/" created="Wed, 03 Nov 2021 21:35:24 GMT"/>
+				<outline text="I'm trying to put a little structure around my tendencies to randomly switch up my systems/processes and the software used to manage it all. Changing things around and trying new things is fun, but I thought it would be useful to formalize things a bit. To that end, I'm going to try &lt;a href=&quot;  https://rudimentarylathe.wiki/#Monthly%20Challenges&quot;&gt;Monthly Challenges&lt;/a&gt;, during which I attempt to pick something and stick with it for 30 days, at least." created="Wed, 03 Nov 2021 20:08:47 GMT" type="outline"/>
+				<outline text="Good morning" created="Wed, 03 Nov 2021 12:31:31 GMT" type="outline">
+					<outline text="It almost snowed this morning. (&lt;a href=&quot;https://jackbaty.smugmug.com/Blog-Photos/i-Nvv9qPt/A&quot;&gt;full size&lt;/a&gt;)" created="Wed, 03 Nov 2021 12:31:36 GMT" inlineImage="https://photos.smugmug.com/photos/i-Nvv9qPt/0/911f710c/XL/i-Nvv9qPt-XL.jpg"/>
+					</outline>
+				<outline text="Minutiae - Wednesday, November 3, 2021" created="Wed, 03 Nov 2021 15:37:46 GMT" type="outline">
+					<outline text="I've decided I prefer putting minutiae over at thelathe" created="Wed, 03 Nov 2021 15:38:09 GMT"/>
+					</outline>
+				</outline>
+			<outline text="November 2" created="Tue, 02 Nov 2021 09:06:42 GMT" type="calendarDay" name="02">
+				<outline text="My favorite kind of blog post is: &quot;Here's what I did and this is what I learned and what I think about it.&quot;" created="Tue, 02 Nov 2021 16:10:19 GMT" type="outline"/>
+				<outline text="Downward" created="Tue, 02 Nov 2021 12:42:43 GMT" type="outline" inlineImage="https://photos.smugmug.com/photos/i-6WMXG9D/0/8d0dd5d7/M/i-6WMXG9D-M.png"/>
+				<outline text="I'm now running OmniFocus, Things, Org mode, and a paper notebook side-by-side because I can't commit. I want bits of all of them. Org mode gets me closest to doing everything the way I want it done, but it's, ya know, Emacs. I &lt;i&gt;want&lt;/i&gt; to use paper, but it's too much work. Good work, but I tire of it. Maybe one day when my time is spent away from the computer this will all go away." created="Tue, 02 Nov 2021 11:43:22 GMT" type="outline"/>
+				<outline text="Good morning." created="Tue, 02 Nov 2021 09:10:21 GMT" type="outline">
+					<outline text="28mm, 50mm, and 75mm. (&lt;a href=&quot;https://jackbaty.smugmug.com/Blog-Photos/i-4bN5L9b/A&quot;&gt;full size&lt;/a&gt;)" created="Tue, 02 Nov 2021 09:29:44 GMT" inlineImage="https://photos.smugmug.com/photos/i-4bN5L9b/0/b9a65e2e/XL/i-4bN5L9b-XL.jpg"/>
+					</outline>
+				<outline text="Minutiae - Tuesday, November 2, 2021" created="Tue, 02 Nov 2021 09:06:43 GMT" type="outline">
+					<outline text="☁️ Overcast +40°F" created="Tue, 02 Nov 2021 09:06:51 GMT"/>
+					<outline text="Alice was up and ready for her walk at 3:00 am. I pushed it until 3:30 but damn that's still too early." created="Tue, 02 Nov 2021 09:26:29 GMT"/>
+					<outline text="I can't seem to get tweets to show when using &quot;urltweet&quot;. The disclosure triangle is displayed, but nothing shows up under it." created="Tue, 02 Nov 2021 09:46:18 GMT"/>
+					<outline text="Posts with inlineImage sent to Micro.blog don't include the images when cross-posted to Twitter and Mastodon." created="Tue, 02 Nov 2021 10:45:53 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 1" created="Mon, 01 Nov 2021 08:42:39 GMT" type="calendarDay" name="01">
 				<outline text="So here I am, once again thinking of moving all my task management to OmniFocus...again. See also 2011 and 2014's: &lt;a href=&quot;https://jackbaty.medium.com/still-on-the-gtd-merry-go-round-8d08cb8dfe22&quot;&gt;Still on the GTD Merry-Go-Round&lt;/a&gt;. This time it's mostly due to boredom and procrastination. I'm fine with that." created="Mon, 01 Nov 2021 19:56:23 GMT" type="outline"/>
 				<outline text="So many opinions about software are based on things I don't worry about. &quot;It doesn't work on iOS&quot;. &quot;It's a subscription.&quot; &quot;It's not open source.&quot; &quot;Too expensive.&quot; I have to weed those out so I can judge a review or article's suitability for me." created="Mon, 01 Nov 2021 18:53:53 GMT" type="outline"/>
